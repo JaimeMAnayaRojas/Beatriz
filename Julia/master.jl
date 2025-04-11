@@ -1,5 +1,4 @@
-import Pkg
-# Pkg.add("MultivariateStats")
+# import Pkg
 # Pkg.add(["MultivariateStats", "RDatasets", "Plots", "CSV", "DataFrames", "Statistics"])
 
 using MultivariateStats, RDatasets, Plots
